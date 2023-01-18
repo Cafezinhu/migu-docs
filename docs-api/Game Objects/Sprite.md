@@ -1,0 +1,3 @@
+# Sprite
+extends [GameObject](GameObject)
+
