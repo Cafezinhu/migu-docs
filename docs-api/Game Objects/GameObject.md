@@ -30,7 +30,7 @@ Called every frame. ``delta`` contains the time elapsed in milliseconds from las
 
 ## Properties
 
-| Name | Type | Aditional details |
+| Name | Type | Additional details |
 |-----------|----------------|----------------|
 | container | [PIXI.Container](https://pixijs.download/dev/docs/PIXI.Container.html) | |
 | engine    | Engine         | |
