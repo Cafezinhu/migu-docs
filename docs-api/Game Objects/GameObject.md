@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # GameObject
 
 GameObject is the base class for all objects in Migu. 
